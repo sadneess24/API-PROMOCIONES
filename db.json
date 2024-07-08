@@ -1,122 +1,124 @@
 {
     "promociones": [
-      {
-        "idpromocion": 1,
-        "nombre": "Verano Brillante",
-        "descripcion": "Descuento especial en joyas seleccionadas para celebrar el verano.",
-        "descuento": 20,
-        "valido_desde": "2024-07-01",
-        "valido_hasta": "2024-08-31",
-        "promociones_productos": [101, 102, 103]
-      },
-      {
-        "idpromocion": 2,
-        "nombre": "Relojes Elegantes",
-        "descripcion": "Oferta en relojes de marcas reconocidas.",
-        "descuento": 15,
-        "valido_desde": "2024-07-15",
-        "valido_hasta": "2024-08-15",
-        "promociones_productos": [201, 202, 203]
-      },
-      {
-        "idpromocion": 3,
-        "nombre": "Aniversario de la Joyería",
-        "descripcion": "Grandes descuentos para celebrar nuestro aniversario.",
-        "descuento": 30,
-        "valido_desde": "2024-09-01",
-        "valido_hasta": "2024-09-30",
-        "promociones_productos": [101, 201, 301]
-      },
-      {
-        "idpromocion": 4,
-        "nombre": "Día de San Valentín",
-        "descripcion": "Descuento especial en joyería romántica para el día de San Valentín.",
-        "descuento": 25,
-        "valido_desde": "2024-02-01",
-        "valido_hasta": "2024-02-14",
-        "promociones_productos": [104, 105, 106]
-      },
-      {
-        "idpromocion": 5,
-        "nombre": "Navidad Brillante",
-        "descripcion": "Oferta exclusiva en joyas para celebrar la Navidad.",
-        "descuento": 30,
-        "valido_desde": "2024-12-01",
-        "valido_hasta": "2024-12-25",
-        "promociones_productos": [107, 108, 109]
-      },
-      {
-        "idpromocion": 6,
-        "nombre": "Black Friday",
-        "descripcion": "Grandes descuentos en relojes de alta gama para el Black Friday.",
-        "descuento": 40,
-        "valido_desde": "2024-11-01",
-        "valido_hasta": "2024-11-30",
-        "promociones_productos": [204, 205, 206]
-      },
-      {
-        "idpromocion": 7,
-        "nombre": "Primavera Brillante",
-        "descripcion": "Descuento especial en joyas para dar la bienvenida a la primavera.",
-        "descuento": 20,
-        "valido_desde": "2024-03-01",
-        "valido_hasta": "2024-03-31",
-        "promociones_productos": [110, 111, 112]
-      },
-      {
-        "idpromocion": 8,
-        "nombre": "Verano Dorado",
-        "descripcion": "Oferta en joyas de oro para disfrutar del verano con estilo.",
-        "descuento": 15,
-        "valido_desde": "2024-06-01",
-        "valido_hasta": "2024-06-30",
-        "promociones_productos": [113, 114, 115]
-      },
-      {
-        "idpromocion": 9,
-        "nombre": "Cyber Monday",
-        "descripcion": "Grandes descuentos en joyería durante el Cyber Monday.",
-        "descuento": 35,
-        "valido_desde": "2024-11-25",
-        "valido_hasta": "2024-11-26",
-        "promociones_productos": [116, 117, 118]
-      },
-      {
-        "idpromocion": 10,
-        "nombre": "Aniversario de la Relojería",
-        "descripcion": "Oferta especial en relojes para celebrar nuestro aniversario.",
-        "descuento": 25,
-        "valido_desde": "2024-09-15",
-        "valido_hasta": "2024-09-30",
-        "promociones_productos": [207, 208, 209]
-      },
-      {
-        "idpromocion": 11,
-        "nombre": "Oferta de Invierno",
-        "descripcion": "Descuento en joyas y relojes para disfrutar del invierno.",
-        "descuento": 30,
-        "valido_desde": "2024-01-01",
-        "valido_hasta": "2024-01-31",
-        "promociones_productos": [119, 210, 211]
-      },
-      {
-        "idpromocion": 12,
-        "nombre": "Back to School",
-        "descripcion": "Oferta en relojes elegantes para el regreso a clases.",
-        "descuento": 20,
-        "valido_desde": "2024-08-15",
-        "valido_hasta": "2024-09-15",
-        "promociones_productos": [212, 213, 214]
-      },
-      {
-        "idpromocion": 13,
-        "nombre": "Anillo de Compromiso",
-        "descripcion": "Descuento en anillos de compromiso para celebrar momentos especiales.",
-        "descuento": 15,
-        "valido_desde": "2024-05-01",
-        "valido_hasta": "2024-05-31",
-        "promociones_productos": [115, 116, 117]
-      }
+      [
+        {
+          "idpromocion": 1,
+          "nombre": "Verano Brillante",
+          "descripcion": "Descuento especial en joyas seleccionadas para celebrar el verano.",
+          "descuento": 20,
+          "valido_desde": "01-07-2024",
+          "valido_hasta": "31-08-2024",
+          "promociones_productos": [101, 102, 103]
+        },
+        {
+          "idpromocion": 2,
+          "nombre": "Relojes Elegantes",
+          "descripcion": "Oferta en relojes de marcas reconocidas.",
+          "descuento": 15,
+          "valido_desde": "15-07-2024",
+          "valido_hasta": "15-08-2024",
+          "promociones_productos": [201, 202, 203]
+        },
+        {
+          "idpromocion": 3,
+          "nombre": "Aniversario de la Joyería",
+          "descripcion": "Grandes descuentos para celebrar nuestro aniversario.",
+          "descuento": 30,
+          "valido_desde": "01-09-2024",
+          "valido_hasta": "30-09-2024",
+          "promociones_productos": [101, 201, 301]
+        },
+        {
+          "idpromocion": 4,
+          "nombre": "Día de San Valentín",
+          "descripcion": "Descuento especial en joyería romántica para el día de San Valentín.",
+          "descuento": 25,
+          "valido_desde": "01-02-2024",
+          "valido_hasta": "14-02-2024",
+          "promociones_productos": [104, 105, 106]
+        },
+        {
+          "idpromocion": 5,
+          "nombre": "Navidad Brillante",
+          "descripcion": "Oferta exclusiva en joyas para celebrar la Navidad.",
+          "descuento": 30,
+          "valido_desde": "01-12-2024",
+          "valido_hasta": "25-12-2024",
+          "promociones_productos": [107, 108, 109]
+        },
+        {
+          "idpromocion": 6,
+          "nombre": "Black Friday",
+          "descripcion": "Grandes descuentos en relojes de alta gama para el Black Friday.",
+          "descuento": 40,
+          "valido_desde": "01-11-2024",
+          "valido_hasta": "30-11-2024",
+          "promociones_productos": [204, 205, 206]
+        },
+        {
+          "idpromocion": 7,
+          "nombre": "Primavera Brillante",
+          "descripcion": "Descuento especial en joyas para dar la bienvenida a la primavera.",
+          "descuento": 20,
+          "valido_desde": "01-03-2024",
+          "valido_hasta": "31-03-2024",
+          "promociones_productos": [110, 111, 112]
+        },
+        {
+          "idpromocion": 8,
+          "nombre": "Verano Dorado",
+          "descripcion": "Oferta en joyas de oro para disfrutar del verano con estilo.",
+          "descuento": 15,
+          "valido_desde": "01-06-2024",
+          "valido_hasta": "30-06-2024",
+          "promociones_productos": [113, 114, 115]
+        },
+        {
+          "idpromocion": 9,
+          "nombre": "Cyber Monday",
+          "descripcion": "Grandes descuentos en joyería durante el Cyber Monday.",
+          "descuento": 35,
+          "valido_desde": "25-11-2024",
+          "valido_hasta": "26-11-2024",
+          "promociones_productos": [116, 117, 118]
+        },
+        {
+          "idpromocion": 10,
+          "nombre": "Aniversario de la Relojería",
+          "descripcion": "Oferta especial en relojes para celebrar nuestro aniversario.",
+          "descuento": 25,
+          "valido_desde": "15-09-2024",
+          "valido_hasta": "30-09-2024",
+          "promociones_productos": [207, 208, 209]
+        },
+        {
+          "idpromocion": 11,
+          "nombre": "Oferta de Invierno",
+          "descripcion": "Descuento en joyas y relojes para disfrutar del invierno.",
+          "descuento": 30,
+          "valido_desde": "01-01-2024",
+          "valido_hasta": "31-01-2024",
+          "promociones_productos": [119, 210, 211]
+        },
+        {
+          "idpromocion": 12,
+          "nombre": "Back to School",
+          "descripcion": "Oferta en relojes elegantes para el regreso a clases.",
+          "descuento": 20,
+          "valido_desde": "15-08-2024",
+          "valido_hasta": "15-09-2024",
+          "promociones_productos": [212, 213, 214]
+        },
+        {
+          "idpromocion": 13,
+          "nombre": "Anillo de Compromiso",
+          "descripcion": "Descuento en anillos de compromiso para celebrar momentos especiales.",
+          "descuento": 15,
+          "valido_desde": "01-05-2024",
+          "valido_hasta": "31-05-2024",
+          "promociones_productos": [115, 116, 117]
+        }
+      ]      
     ]
   }
   
