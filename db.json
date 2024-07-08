@@ -1,6 +1,5 @@
 {
     "promociones": [
-      [
         {
           "idpromocion": 1,
           "nombre": "Verano Brillante",
@@ -117,8 +116,7 @@
           "valido_desde": "01-05-2024",
           "valido_hasta": "31-05-2024",
           "promociones_productos": [115, 116, 117]
-        }
-      ]      
+        }      
     ]
   }
   
